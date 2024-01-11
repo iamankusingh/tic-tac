@@ -1,2 +1,2 @@
 Here's a mini game project- Tic-Tac-Toe.
-link iamankusingh.github.io/tic-tac/
+link htps://iamankusingh.github.io/tic-tac/
